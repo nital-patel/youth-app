@@ -2,7 +2,7 @@ import React from 'react';
 
 export function Youth({name}) {
     return (
-        <p>{"Register For Atmiya Youth Shibir 2018"}</p>
+        <p className="App-title">{"Register For Atmiya Youth Shibir 2018"}</p>
     );
 
 }
