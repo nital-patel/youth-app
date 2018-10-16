@@ -5,7 +5,7 @@ import Post from './App';
 import registerServiceWorker from './registerServiceWorker';
 
 const post = {
-    title: 'Register For Hari Manan Shibir 2018\n',
+    title: 'Register For Hari Manan Shibir 2018',
 
 };
 

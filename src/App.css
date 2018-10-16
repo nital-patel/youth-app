@@ -1,5 +1,4 @@
 
-
 .App-title {
   font-size: 30px;
   text-align: center;
@@ -11,7 +10,43 @@ h1  {
   font-weight: normal;
 }
 .input {
-  border-bottom: 2px solid #dfdfdf;
-  text-decoration: none;
-  width: 100%;
+  width: 40%;
+  padding: 6px;
+  height: 40px;
+  font-size: 14px;
+  margin-left: 20%;
+  margin-top: 20px;
+  border: 2px #4A4A4A;
+  box-shadow: #DA4F1A;
+  outline: none;
+  border-bottom: 5px;
+
+}
+.image {
+  width: 60%;
+  height: 60%;
+  margin-left: 20%;
+}
+.title {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 44px;
+  line-height: 1.42857;
+  font-family: "latoregular", sans-serif;
+  color: #4A4A4A;
+
+}
+.email {
+  font-family: "latoregular", sans-serif;
+  margin-left: 20%;
+
+}
+.btn {
+  background-color: #DA4F1A;
+  border-color: #DA4F1A;
+  border-radius: 3px;
+  height: 40px;
+  padding: 0 50px;
+  color: #ffffff;
+  font-size: inherit;
 }
